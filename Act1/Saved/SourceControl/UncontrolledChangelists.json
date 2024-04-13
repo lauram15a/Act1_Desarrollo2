@@ -9,6 +9,9 @@
 				"D:/Act1_Desarrollo2/Act1/Content/ThirdPerson/Input/Actions/IA_Shoot.uasset",
 				"D:/Act1_Desarrollo2/Act1/Content/Characters/Eve/Mesh/Eve_By_J_Gonzales.uasset",
 				"D:/Act1_Desarrollo2/Act1/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Act1_Desarrollo2/Act1/Content/HUD/w_HUD.uasset",
+				"D:/Act1_Desarrollo2/Act1/Content/HUD/W_Anchor.uasset",
+				"D:/Act1_Desarrollo2/Act1/Content/ThirdPerson/Input/Actions/IA_Aim.uasset",
 				"D:/Unreal/Act1/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
