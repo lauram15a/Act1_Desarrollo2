@@ -1851,11 +1851,16 @@
 				"D:/Act1_Desarrollo2/Act1/Content/ThirdPerson/Blueprints/IA/BP_IA_Brut.uasset",
 				"D:/Act1_Desarrollo2/Act1/Content/HUD/W_AI_Health.uasset",
 				"D:/Act1_Desarrollo2/Act1/Content/HUD/W_AI_Team.uasset",
-				"D:/Act1_Desarrollo2/Act1/Content/HUD/W_Eve_Health.uasset",
 				"D:/Act1_Desarrollo2/Act1/Content/ThirdPerson/Blueprints/GS_TeamDeath.uasset",
+				"D:/Act1_Desarrollo2/Act1/Content/HUD/w_HUD.uasset",
+				"D:/Act1_Desarrollo2/Act1/Content/Sounds/Sahara-egypt.uasset",
+				"D:/Act1_Desarrollo2/Act1/Content/Sounds/LevelSounds/Action_Music.uasset",
+				"D:/Act1_Desarrollo2/Act1/Content/Sounds/LevelSounds/Sahara-egypt.uasset",
+				"D:/Act1_Desarrollo2/Act1/Content/Sounds/Trampoline.uasset",
+				"D:/Act1_Desarrollo2/Act1/Content/Sounds/Electricidad.uasset",
+				"D:/Act1_Desarrollo2/Act1/Content/HUD/W_Eve_Health.uasset",
 				"D:/Act1_Desarrollo2/Act1/Content/HUD/W_Main.uasset",
 				"D:/Act1_Desarrollo2/Act1/Content/HUD/W_Winner.uasset",
-				"D:/Act1_Desarrollo2/Act1/Content/HUD/W_HUD.uasset",
 				"D:/Act1_Desarrollo2/Act1/Content/HUD/W_Health_Eve.uasset",
 				"D:/Act1_Desarrollo2/Act1/Content/HUD/W_Health_AI.uasset",
 				"D:/Act1_Desarrollo2/Act1/Content/HUD/W_Team_AI.uasset",
@@ -7327,7 +7332,6 @@
 				"D:/Act1_Desarrollo2/Act1/Content/Effects-borrar/Effects/OLD/Effects/FX_Materials/Fire/M_LavaFlows_Add_BrightOrng_INST.uasset",
 				"D:/Act1_Desarrollo2/Act1/Content/Effects-borrar/Effects/OLD/Effects/FX_Materials/Glyph/M_Add_Unlit_EndGate_Glow.uasset",
 				"D:/Act1_Desarrollo2/Act1/Content/Effects-borrar/Effects/OLD/Effects/FX_Materials/ICE/M_Snow_Ball_01_INST.uasset",
-				"D:/Act1_Desarrollo2/Act1/Content/HUD/w_HUD.uasset",
 				"D:/Unreal/Act1/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
