@@ -1613,3 +1613,119 @@ LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
 	BP_AI_Alex_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AI_Alex_C_UAID_10E7C66C3B56A7F001_1402533991
 	Function /Game/ThirdPerson/Blueprints/Characters/AI/BP_AI.BP_AI_C:ExecuteUbergraph_BP_AI:0121
 [2024.04.29-17.38.37:925][643]PIE: Error: Infinite loop detected. Blueprint:  BP_AI Function:  Branch Call Stack:  Show
+[2024.04.29-17.38.39:183][643]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	BP_AI_Alex_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AI_Alex_C_UAID_10E7C66C3B56A7F001_1402533991
+	Function /Game/ThirdPerson/Blueprints/Characters/AI/BP_AI.BP_AI_C:ExecuteUbergraph_BP_AI:0121
+[2024.04.29-17.38.39:184][643]PIE: Error: Infinite loop detected. Blueprint:  BP_AI Function:  Branch Call Stack:  Show
+[2024.04.29-17.38.40:415][643]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	BP_AI_Alex_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AI_Alex_C_UAID_10E7C66C3B56A7F001_1402533991
+	Function /Game/ThirdPerson/Blueprints/Characters/AI/BP_AI.BP_AI_C:ExecuteUbergraph_BP_AI:0121
+[2024.04.29-17.38.40:415][643]PIE: Error: Infinite loop detected. Blueprint:  BP_AI Function:  Branch Call Stack:  Show
+[2024.04.29-17.38.41:722][643]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	BP_AI_Alex_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AI_Alex_C_UAID_10E7C66C3B56A7F001_1402533991
+	Function /Game/ThirdPerson/Blueprints/Characters/AI/BP_AI.BP_AI_C:ExecuteUbergraph_BP_AI:0121
+[2024.04.29-17.38.41:722][643]PIE: Error: Infinite loop detected. Blueprint:  BP_AI Function:  Branch Call Stack:  Show
+[2024.04.29-17.38.42:933][643]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	BP_AI_Alex_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AI_Alex_C_UAID_10E7C66C3B56A7F001_1402533991
+	Function /Game/ThirdPerson/Blueprints/Characters/AI/BP_AI.BP_AI_C:ExecuteUbergraph_BP_AI:0121
+[2024.04.29-17.38.42:973][643]PIE: Error: Infinite loop detected. Blueprint:  BP_AI Function:  Branch Call Stack:  Show
+[2024.04.29-17.38.44:363][643]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	BP_AI_Alex_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AI_Alex_C_UAID_10E7C66C3B56A7F001_1402533991
+	Function /Game/ThirdPerson/Blueprints/Characters/AI/BP_AI.BP_AI_C:ExecuteUbergraph_BP_AI:0121
+[2024.04.29-17.38.44:363][643]PIE: Error: Infinite loop detected. Blueprint:  BP_AI Function:  Branch Call Stack:  Show
+[2024.04.29-17.38.45:453][643]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	BP_AI_Alex_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AI_Alex_C_UAID_10E7C66C3B56A7F001_1402533991
+	Function /Game/ThirdPerson/Blueprints/Characters/AI/BP_AI.BP_AI_C:ExecuteUbergraph_BP_AI:0121
+[2024.04.29-17.38.45:453][643]PIE: Error: Infinite loop detected. Blueprint:  BP_AI Function:  Branch Call Stack:  Show
+[2024.04.29-17.38.46:618][643]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	BP_AI_Alex_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AI_Alex_C_UAID_10E7C66C3B56A7F001_1402533991
+	Function /Game/ThirdPerson/Blueprints/Characters/AI/BP_AI.BP_AI_C:ExecuteUbergraph_BP_AI:0121
+[2024.04.29-17.38.46:618][643]PIE: Error: Infinite loop detected. Blueprint:  BP_AI Function:  Branch Call Stack:  Show
+[2024.04.29-17.38.47:997][643]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	BP_AI_Alex_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AI_Alex_C_UAID_10E7C66C3B56A7F001_1402533991
+	Function /Game/ThirdPerson/Blueprints/Characters/AI/BP_AI.BP_AI_C:ExecuteUbergraph_BP_AI:0121
+[2024.04.29-17.38.47:997][643]PIE: Error: Infinite loop detected. Blueprint:  BP_AI Function:  Branch Call Stack:  Show
+[2024.04.29-17.38.49:393][643]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	BP_AI_Alex_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AI_Alex_C_UAID_10E7C66C3B56A7F001_1402533991
+	Function /Game/ThirdPerson/Blueprints/Characters/AI/BP_AI.BP_AI_C:ExecuteUbergraph_BP_AI:0121
+[2024.04.29-17.38.49:403][643]PIE: Error: Infinite loop detected. Blueprint:  BP_AI Function:  Branch Call Stack:  Show
+[2024.04.29-17.38.50:580][643]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	BP_AI_Alex_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AI_Alex_C_UAID_10E7C66C3B56A7F001_1402533991
+	Function /Game/ThirdPerson/Blueprints/Characters/AI/BP_AI.BP_AI_C:ExecuteUbergraph_BP_AI:0121
+[2024.04.29-17.38.50:580][643]PIE: Error: Infinite loop detected. Blueprint:  BP_AI Function:  Branch Call Stack:  Show
+[2024.04.29-17.38.51:813][643]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	BP_AI_Alex_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AI_Alex_C_UAID_10E7C66C3B56A7F001_1402533991
+	Function /Game/ThirdPerson/Blueprints/Characters/AI/BP_AI.BP_AI_C:ExecuteUbergraph_BP_AI:0121
+[2024.04.29-17.38.51:814][643]PIE: Error: Infinite loop detected. Blueprint:  BP_AI Function:  Branch Call Stack:  Show
+[2024.04.29-17.38.53:890][643]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	BP_AI_Alex_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AI_Alex_C_UAID_10E7C66C3B56A7F001_1402533991
+	Function /Game/ThirdPerson/Blueprints/Characters/AI/BP_AI.BP_AI_C:ExecuteUbergraph_BP_AI:0121
+[2024.04.29-17.38.53:940][643]PIE: Error: Infinite loop detected. Blueprint:  BP_AI Function:  Branch Call Stack:  Show
+[2024.04.29-17.38.55:411][643]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	BP_AI_Alex_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AI_Alex_C_UAID_10E7C66C3B56A7F001_1402533991
+	Function /Game/ThirdPerson/Blueprints/Characters/AI/BP_AI.BP_AI_C:ExecuteUbergraph_BP_AI:0121
+[2024.04.29-17.38.55:412][643]PIE: Error: Infinite loop detected. Blueprint:  BP_AI Function:  Branch Call Stack:  Show
+[2024.04.29-17.38.56:386][643]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	BP_AI_Alex_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AI_Alex_C_UAID_10E7C66C3B56A7F001_1402533991
+	Function /Game/ThirdPerson/Blueprints/Characters/AI/BP_AI.BP_AI_C:ExecuteUbergraph_BP_AI:0121
+[2024.04.29-17.38.56:386][643]PIE: Error: Infinite loop detected. Blueprint:  BP_AI Function:  Branch Call Stack:  Show
+[2024.04.29-17.38.57:324][643]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	BP_AI_Alex_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AI_Alex_C_UAID_10E7C66C3B56A7F001_1402533991
+	Function /Game/ThirdPerson/Blueprints/Characters/AI/BP_AI.BP_AI_C:ExecuteUbergraph_BP_AI:0121
+[2024.04.29-17.38.57:325][643]PIE: Error: Infinite loop detected. Blueprint:  BP_AI Function:  Branch Call Stack:  Show
+[2024.04.29-17.38.58:236][643]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	BP_AI_Alex_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AI_Alex_C_UAID_10E7C66C3B56A7F001_1402533991
+	Function /Game/ThirdPerson/Blueprints/Characters/AI/BP_AI.BP_AI_C:ExecuteUbergraph_BP_AI:0121
+[2024.04.29-17.38.58:238][643]PIE: Error: Infinite loop detected. Blueprint:  BP_AI Function:  Branch Call Stack:  Show
+[2024.04.29-17.38.59:638][643]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	BP_AI_Alex_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AI_Alex_C_UAID_10E7C66C3B56A7F001_1402533991
+	Function /Game/ThirdPerson/Blueprints/Characters/AI/BP_AI.BP_AI_C:ExecuteUbergraph_BP_AI:0121
+[2024.04.29-17.38.59:639][643]PIE: Error: Infinite loop detected. Blueprint:  BP_AI Function:  Branch Call Stack:  Show
+[2024.04.29-17.39.01:230][643]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	BP_AI_Alex_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AI_Alex_C_UAID_10E7C66C3B56A7F001_1402533991
+	Function /Game/ThirdPerson/Blueprints/Characters/AI/BP_AI.BP_AI_C:ExecuteUbergraph_BP_AI:0121
+[2024.04.29-17.39.01:231][643]PIE: Error: Infinite loop detected. Blueprint:  BP_AI Function:  Branch Call Stack:  Show
+[2024.04.29-17.39.02:604][643]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	BP_AI_Alex_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AI_Alex_C_UAID_10E7C66C3B56A7F001_1402533991
+	Function /Game/ThirdPerson/Blueprints/Characters/AI/BP_AI.BP_AI_C:ExecuteUbergraph_BP_AI:0121
+[2024.04.29-17.39.02:604][643]PIE: Error: Infinite loop detected. Blueprint:  BP_AI Function:  Branch Call Stack:  Show
+[2024.04.29-17.39.03:954][643]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	BP_AI_Alex_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AI_Alex_C_UAID_10E7C66C3B56A7F001_1402533991
+	Function /Game/ThirdPerson/Blueprints/Characters/AI/BP_AI.BP_AI_C:ExecuteUbergraph_BP_AI:0121
+[2024.04.29-17.39.03:954][643]PIE: Error: Infinite loop detected. Blueprint:  BP_AI Function:  Branch Call Stack:  Show
+[2024.04.29-17.39.05:263][643]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	BP_AI_Alex_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AI_Alex_C_UAID_10E7C66C3B56A7F001_1402533991
+	Function /Game/ThirdPerson/Blueprints/Characters/AI/BP_AI.BP_AI_C:ExecuteUbergraph_BP_AI:0121
+[2024.04.29-17.39.05:264][643]PIE: Error: Infinite loop detected. Blueprint:  BP_AI Function:  Branch Call Stack:  Show
+[2024.04.29-17.39.06:491][643]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	BP_AI_Alex_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AI_Alex_C_UAID_10E7C66C3B56A7F001_1402533991
+	Function /Game/ThirdPerson/Blueprints/Characters/AI/BP_AI.BP_AI_C:ExecuteUbergraph_BP_AI:0121
+[2024.04.29-17.39.06:491][643]PIE: Error: Infinite loop detected. Blueprint:  BP_AI Function:  Branch Call Stack:  Show
+[2024.04.29-17.39.07:478][643]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	BP_AI_Alex_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AI_Alex_C_UAID_10E7C66C3B56A7F001_1402533991
+	Function /Game/ThirdPerson/Blueprints/Characters/AI/BP_AI.BP_AI_C:ExecuteUbergraph_BP_AI:0121
+[2024.04.29-17.39.07:479][643]PIE: Error: Infinite loop detected. Blueprint:  BP_AI Function:  Branch Call Stack:  Show
+[2024.04.29-17.39.08:389][643]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	BP_AI_Alex_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AI_Alex_C_UAID_10E7C66C3B56A7F001_1402533991
+	Function /Game/ThirdPerson/Blueprints/Characters/AI/BP_AI.BP_AI_C:ExecuteUbergraph_BP_AI:0121
+[2024.04.29-17.39.08:389][643]PIE: Error: Infinite loop detected. Blueprint:  BP_AI Function:  Branch Call Stack:  Show
+[2024.04.29-17.39.09:430][643]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	BP_AI_Alex_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AI_Alex_C_UAID_10E7C66C3B56A7F001_1402533991
+	Function /Game/ThirdPerson/Blueprints/Characters/AI/BP_AI.BP_AI_C:ExecuteUbergraph_BP_AI:0121
+[2024.04.29-17.39.09:431][643]PIE: Error: Infinite loop detected. Blueprint:  BP_AI Function:  Branch Call Stack:  Show
+[2024.04.29-17.39.10:508][643]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	BP_AI_Alex_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AI_Alex_C_UAID_10E7C66C3B56A7F001_1402533991
+	Function /Game/ThirdPerson/Blueprints/Characters/AI/BP_AI.BP_AI_C:ExecuteUbergraph_BP_AI:0121
+[2024.04.29-17.39.10:508][643]PIE: Error: Infinite loop detected. Blueprint:  BP_AI Function:  Branch Call Stack:  Show
+[2024.04.29-17.39.11:449][643]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	BP_AI_Alex_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AI_Alex_C_UAID_10E7C66C3B56A7F001_1402533991
+	Function /Game/ThirdPerson/Blueprints/Characters/AI/BP_AI.BP_AI_C:ExecuteUbergraph_BP_AI:0121
+[2024.04.29-17.39.11:449][643]PIE: Error: Infinite loop detected. Blueprint:  BP_AI Function:  Branch Call Stack:  Show
+[2024.04.29-17.39.12:428][643]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	BP_AI_Alex_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AI_Alex_C_UAID_10E7C66C3B56A7F001_1402533991
+	Function /Game/ThirdPerson/Blueprints/Characters/AI/BP_AI.BP_AI_C:ExecuteUbergraph_BP_AI:0121
+[2024.04.29-17.39.12:428][643]PIE: Error: Infinite loop detected. Blueprint:  BP_AI Function:  Branch Call Stack:  Show
+[2024.04.29-17.39.13:358][643]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	BP_AI_Alex_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AI_Alex_C_UAID_10E7C66C3B56A7F001_1402533991
+	Function /Game/ThirdPerson/Blueprints/Characters/AI/BP_AI.BP_AI_C:ExecuteUbergraph_BP_AI:0121
+[2024.04.29-17.39.13:414][643]PIE: Error: Infinite loop detected. Blueprint:  BP_AI Function:  Branch Call Stack:  Show
